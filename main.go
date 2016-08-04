@@ -1,8 +1,9 @@
 package main
 
 import (
-	"euler"
 	"fmt"
+
+	"github.com/neocraft/go_practice/euler"
 )
 
 func main() {
